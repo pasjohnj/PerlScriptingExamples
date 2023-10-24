@@ -1,5 +1,5 @@
 # Perl Scripting Examples for the Text Creation Partnership (TCP)
-I am a self-taught Perl enthusiast. These got the job done.
+My first forays into programming. These got the job done.
 ## 1_file_discrep.pl
 This script reconciles what files are on hand with what markup reviewers indicated they completed.
 1.) It creates two lists, one list of files on hand, and one list of files reviewers claimed completed, and compares them.
